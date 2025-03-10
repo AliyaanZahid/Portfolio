@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CarePulse Healthcare App",
+    "desc": "A scalable healthcare management platform using Next.js, Appwrite, and TypeScript, enabling secure patient registration, automated appointment scheduling, and an admin dashboard for managing 1,000+ patient records.",
+    "image": "/projects/carepulse.png",
+    "category": "fullstack",
+    "links": {
+      "view": "https://care-pulse-healthcare-app-aliyaanzahids-projects.vercel.app/",
+      "code": "https://github.com/AliyaanZahid/CareSync-HealthcareApp"
+    }
+  },
+  {
+    "name": "To Do App",
+    "desc": "A dockerized full-stack ToDo application built using Node.js, PostgreSQL, and Prisma ORM with JWT authentication for secure user access and session management. Deployed using Heroku with Docker containers.",
+    "image": "projects/todo.png",
+    "category": "fullstack",
+    "links": {
+      "view": "https://todo-fullstackapp-new-17a226bff5ff.herokuapp.com/",
+      "code": "https://github.com/AliyaanZahid"
+    }
+  },
+  {
+    "name": "Brogram - Smart Workout Generator",
+    "desc": "A smart workout generation web app built using React.js and Fanta.css. Implements a rule-based workout algorithm that dynamically adjusts exercises based on user experience, environment, and fitness goals.",
+    "image": "projects/brogram.png",
+    "category": "webapp",
+    "links": {
+      "view": "https://brogram-workout.netlify.app/",
+      "code": "https://github.com/AliyaanZahid/ToDo_App"
+    }
+  }
+]
